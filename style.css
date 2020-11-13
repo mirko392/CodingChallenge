@@ -1,0 +1,81 @@
+body {
+   background-image: url("background.jpg");
+   background-size: cover;
+   }
+
+.rettangolo {
+  width: 950px;
+  height: 635px;
+  background-color:rgba(0, 0, 0, 0.5);
+  border-radius: 2em;
+  margin: auto;
+  margin-top: 25px;
+}
+
+.logo {
+ width: 180px;
+ margin-left: 40%;
+ margin-top: 7%;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+#testo-verde {
+  color: #00e600;
+  text-align: center;
+}
+.rettangolo-verde {
+  width: 770px;
+  height: 35px;
+  background-color: #00e600;
+  margin-top: 8px;
+  margin-left: 80px;
+  text-align: center;
+}
+button {
+  margin-top: 7px;
+}
+
+label {
+  color: white;
+  font-size: 20px;
+}
+#monopattino_gino {
+  margin-top: 20px;
+  margin-left: 80px;
+}
+p {
+  color: white;
+  margin-left: 80px;
+}
+.arancione {
+  width: 255px;
+  height: 20px;
+  background-color: #f2bb59;
+  margin-left: 80px;
+  border-radius: 0.3em;
+}
+.verde {
+  width: 490px;
+  height: 20px;
+  background-color: #43be30;
+  margin-left: 80px;
+  border-radius: 0.3em;
+}
+#monopattino_mike {
+  margin-top: 20px;
+  margin-left: 80px;
+}
+.rosso {
+  width: 130px;
+  height: 20px;
+  background-color: #a64a46;
+  margin-left: 80px;
+  border-radius: 0.3em;
+}
+#monopattino_fede {
+  margin-top: 20px;
+  margin-left: 80px;
+}
